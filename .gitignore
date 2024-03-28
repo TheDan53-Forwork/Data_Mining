@@ -161,5 +161,7 @@ cython_debug/
 
 # Lesson course Data Mining
 /lesson
+/lab/Practice/Cleaning_Preprocessing_PCA_Data/arrhythmia
 
 *.html
+*.csv
