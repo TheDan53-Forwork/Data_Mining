@@ -162,6 +162,8 @@ cython_debug/
 # Lesson course Data Mining
 /lesson
 /lab/Practice/Cleaning_Preprocessing_PCA_Data/arrhythmia
+/lab/Practice/Similarity_and_Distance/ionosphere
+/lab/Practice/Similarity_and_Distance/kddcup.data
 
 *.html
 *.csv
